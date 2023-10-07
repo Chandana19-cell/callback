@@ -1,0 +1,10 @@
+#demo{
+    text-align: center;
+    font-size: 100px;
+    padding:100px;
+    margin:100px;
+    color:blue;
+}
+body{
+    background-image: linear-gradient(orange,white,green);
+}
